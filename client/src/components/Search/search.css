@@ -1,0 +1,71 @@
+.input {
+    border-radius: 5px;
+    position: relative;
+    top: 10px;
+    left: 600px;
+    border: 1px solid black;
+    background: url(https://cdn0.iconfinder.com/data/icons/slim-square-icons-basics/100/basics-19-32.png) no-repeat 0px 5px;
+    background-size: 24px;
+    border-bottom: solid 1px #ccc;
+    padding: 10px 10px 10px 30px;
+    outline: none;
+    width: 350px;
+}
+
+
+
+/* .search {
+    width: 22rem;
+    margin: 0 auto 2rem auto;
+    display: flex;
+    position: relative;
+}
+.search div {
+    width: 100%;
+    
+}
+.search div button {
+    font-size: 12px;
+    border: 0;
+    text-align: center;
+    border-radius: 0.25rem;
+    position: absolute;
+    top: 50%;
+    right: -2rem;
+    transform: translate(0, -50%);
+    background: transparent;
+    cursor: pointer;
+}
+.search div input {
+    -webkit-appearance: none;
+    font-size: initial;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    height: 3.5rem;
+    width: 23.2rem;
+    margin-left: -18px;
+    border-radius: 2.5rem;
+    outline: none;
+    color: black;
+    border: 2px solid  rgba(44, 130, 201, 1);  
+    background-color: rgba(245, 245, 245, 0.527);
+    transition: all .2s;
+    font-family: "Quicksand", sans-serif;
+    
+}
+.search div input:focus {
+    border-color:#006eab
+}
+.search div input::placeholder {
+    font-size: 1rem;
+    color: gray;
+    opacity: 1;
+}
+.search div input::-ms-input-placeholder {
+    font-size: 1rem;
+    color: black;
+}
+.search div input:-ms-input-placeholder {
+    font-size: 1rem;
+    color: black;
+}*/

@@ -1,0 +1,73 @@
+.containerDetail{
+    max-width: 700px;
+    background: url('../../img/fondoColor.jpg') no-repeat;
+    margin: 3rem auto;
+    border-radius: 1rem;
+    background-position: right -1.5rem top -1.5rem;
+    background-size: 47rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 800;
+       
+}
+.detailCard{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: inherit;
+    border-radius: inherit;
+    padding:35px 0px 45px 16px;
+    
+};
+.pokemonData {
+    padding: 0.5rem 2rem 2rem 2rem;
+    border-radius: 2rem 2rem 2rem 2rem;
+    border: 2px solid rgba(44, 130, 201, 1); 
+    margin: -34px 0px 10px 0px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+}
+.titleSection {
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+.pokemonData section {
+    margin: 0px 30px 7px 0px;
+    padding: 0px 40px;
+}
+.pokedexDataList{
+    padding: 0px 36px 28px 0px;
+
+    
+}
+
+#gifCrea{
+    position: relative;
+    right: 100px;
+}
+
+.pokedexDataList li {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 1.25rem;
+    
+}
+.label {
+    display: block;
+    font-weight: bold;
+    text-align: start;
+    width: 5.25rem;
+    color: black;
+}
+.value {
+    display: block;
+    font-size: 1.120rem;
+}
+
+h5{
+    text-align: center;
+}

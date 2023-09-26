@@ -1,0 +1,22 @@
+.poke-not-found {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 50px 30px;
+
+}
+.title {
+	font-size: 2em;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-family: "Quicksand", sans-serif;
+}
+
+.imgNot {
+	height: 170px;
+	width: 400px;
+	position: relative;
+	bottom: 70px;
+}

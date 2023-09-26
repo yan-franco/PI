@@ -1,0 +1,41 @@
+.error {
+	background-image: url("../img/error_404.jpg");
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 0px 30px;
+    min-height: calc(111vh - 103px);
+    height: 577px;
+    font-family: "Quicksand", sans-serif;   
+    
+}
+
+@keyframes latido {
+    0% {
+        transform: scale(1);
+    }
+    25% {
+        transform: scale(1.6);
+    }
+    50% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+.error__container--title {
+    font-size: 80px;
+    margin: 0;
+    animation-name: latido;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+.error__container {
+    display: flex;
+    color: black;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+}

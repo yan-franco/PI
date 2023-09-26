@@ -1,0 +1,44 @@
+
+
+#imgNav {
+    height: 180px;
+    width: 15%;
+    position:fixed;
+    bottom: 510px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+#imgNav:hover {
+    transform: translateY(-10px)
+}
+
+#nav {
+    background-color: yellow;
+    border-radius: 15px;
+    border: 2px solid black;
+    display: flex;
+}
+
+.buttonNav {
+    position: relative;
+    left: 610px;
+    top: 20px;
+
+    background: orange;
+    border: 0 none;
+    border-radius: 10%;
+    cursor: pointer;
+    color: white;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 900;
+    font-size: 22px;
+    margin: -37px 1px;
+
+
+}
+.buttonNav:hover, 
+.buttonNav:focus{
+    box-shadow: 0 0 0 2px white, 0 0 0 3px orange;
+}
+

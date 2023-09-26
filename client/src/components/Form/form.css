@@ -1,0 +1,104 @@
+.gifBack{
+    transform: scaleX(-1);
+}
+
+.form-container{
+    max-width: 900px;
+    background-color: yellow;
+    margin: 3rem auto;
+    border-radius: 1rem;
+    background-position: right -1.5rem top -1.5rem;
+    background-size: 33rem;
+    font-family: "Quicksand", sans-serif;
+}
+.detailCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: inherit;
+    border-radius: inherit;
+};
+
+#gifCrea{
+    position: relative;
+    right: 100px;
+}
+
+.title{
+    text-align: center;
+    margin: -80px 10px 10px 5px;
+    color: black;
+}
+
+.pokemonData {
+    border-radius: 2rem 2rem 1rem 1rem;
+    border: 2px solid rgba(217, 30, 24, 1);
+    background-color: white;
+     
+}
+.divCreate{
+    width: 400px;
+    margin: 50px auto;
+    text-align: center;
+    position: relative;
+
+    
+}
+.error-input{
+    color: red;
+    font-size: 11px;
+    margin-top: -10px;
+    margin-bottom: 11px;
+}
+.divInputCreate{
+    border: 0 none;
+    border-radius: 3px;
+    box-sizing: border-box;
+    width: 80%;
+    margin: 0 10%;
+    position: relative;
+}
+input, textarea {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: "Quicksand", sans-serif;
+    color: #2C3E50;
+    font-size: 13px;
+}
+
+.action-button {
+    width: 100px;
+    background: rgba(244, 208, 63, 1);
+    font-weight: bold;
+    color: black;
+    border: 0 none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 5px;
+    margin: 10px 5px;
+    font-family: "Quicksand", sans-serif;
+
+    
+}
+.action-button:hover, 
+.action-button:focus {
+    box-shadow: 0 0 0 3px rgba(217, 30, 24, 1);
+}
+.dropdown select{
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 80%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 13px;
+    text-overflow: '';
+    -webkit-appearance: button; 
+    font-family: "Quicksand", sans-serif;
+}

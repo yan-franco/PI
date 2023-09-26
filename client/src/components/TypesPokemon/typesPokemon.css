@@ -1,0 +1,36 @@
+.divTypes{
+    max-width: 900px;
+    margin: 0 auto 1rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;    
+}
+.typesFilterButton{
+    background: transparent;
+    border: 0;
+}
+.divTypes span {
+    font-size: 0.75rem;
+    color: black;
+    font-family: "Quicksand", sans-serif;  
+}
+.imageType{
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10rem;
+    margin-bottom: .25rem;
+    cursor: pointer;
+    transition: all .2s;
+    border: 1px solid #ff7541;
+    background-color:#ff7541
+}
+
+#imgxx{
+    height: 50px;
+    width: 50px;
+}

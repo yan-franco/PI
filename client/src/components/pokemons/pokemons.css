@@ -1,0 +1,120 @@
+#conten {
+    background-color: rgb(247, 153, 30);
+    width: 90%;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 10px;
+    position: relative;
+    left: 50px;
+}
+/* #button1 {
+    position: relative;
+    left: 470px;
+    top: 40px;
+
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    border-color: red;
+    color: black;
+    background: transparent;
+    border: 2px solid red;
+    border-radius: 6px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#button1:hover {
+    background-color: red;
+    color: white;
+    transform: translateY(-10px);
+}
+
+#button2 {
+    position: relative;
+    left: 480px;
+    top: 40px;
+
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    border-color: red;
+    color: black;
+    background: transparent;
+    border: 2px solid red;
+    border-radius: 6px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#button2:hover {
+    background-color: red;
+    color: white;
+    transform: translateY(-10px);
+}
+
+#button3 {
+    position: relative;
+    left: 490px;
+    top: 40px;
+
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    border-color: red;
+    color: black;
+    background: transparent;
+    border: 2px solid red;
+    border-radius: 6px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#button3:hover {
+    background-color: red;
+    color: white;
+    transform: translateY(-10px);
+}
+
+#button4 {
+    position: relative;
+    left: 500px;
+    top: 40px;
+
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    border-color: red;
+    color: black;
+    background: transparent;
+    border: 2px solid red;
+    border-radius: 6px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#button4:hover {
+    background-color: red;
+    color: white;
+    transform: translateY(-10px);
+} */

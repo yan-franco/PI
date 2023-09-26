@@ -1,0 +1,12 @@
+.dropdown select{
+    border: 2px solid rgba(44, 130, 201, 1);
+    border-radius: 12px;
+    margin: 20px;
+    box-sizing: border-box;
+    color: #2C3E50;
+    font-size: 13px;
+    text-overflow: '';
+    -webkit-appearance: button; 
+    font-family: "Quicksand", sans-serif;  
+    outline: none;
+}
